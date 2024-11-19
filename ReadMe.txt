@@ -116,6 +116,7 @@ Assume the input file is located at "../eQTLchr1_1Mb.csv" and gene names are in 
 ----------------------------------------
 
 作者 (Author): Jian-Hai Chen
+单位 （affiliation） 芝加哥大学 The University of Chicago
 日期 (Date): 11-19-2024
 联系 (Contact): jianhaichen@uchicago.edu
 
